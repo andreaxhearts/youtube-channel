@@ -1,2 +1,2 @@
 # youtube-channel
-YouTube channel resources.
+My YouTube channel resources.
